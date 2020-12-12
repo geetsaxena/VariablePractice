@@ -100,29 +100,12 @@ public class Main {
         // write a logic to print number
 
 
-        public static double {
 
 
-            }
         }
 
 
-
-
-
-
-
-
-
     }
 
 
-
-
-
-
-
-
-
-    }
 
